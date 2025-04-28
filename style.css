@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background:hsl(212, 45%, 89%);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qr_box{
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    margin: auto;
+    width: 250px;
+    background: white;
+    height: 45vh;
+    box-shadow: -4px 7px 15px -10px;
+}
+.footer_section{
+    background: rgba(0, 47, 255, 0.144)0;
+    text-align: center;
+    padding: 15px;
+}
+.qr_box > div > img{
+    border-radius: 15px;
+}
+.qr_box > div > h3{
+    padding: 15px;
+}
