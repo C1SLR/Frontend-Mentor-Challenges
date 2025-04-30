@@ -44,7 +44,7 @@ main {
 .blog_card_item > div {
   margin: 10px 0px;
 }
-.blog_author > h4 {
+.blog_author > h5 {
   display: inline-block;
   position: absolute;
   left: 15%;
