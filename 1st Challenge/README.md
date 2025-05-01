@@ -15,10 +15,9 @@ Here is my coding screen shot in my personal computer ![](./images/ss1.png)
 ## Links
 
 - [Links]
+Live Site (https://frontendmentorchallenge-phi.vercel.app/1st%20Challenge/index.html)
 
-Live Site (https://frontend-mentor-challenges-nine-mu.vercel.app)
-
-Git Repository (https://https://github.com/C1SLR/Frontend-Mentor-Challenges)
+Git Repository (https://github.com/C1SLR/Frontend-Mentor-Challenges)
 
 ## My process
 

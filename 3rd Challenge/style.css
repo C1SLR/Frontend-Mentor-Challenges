@@ -1,0 +1,69 @@
+@font-face {
+  font-family: heading;
+  src: url(assets/fonts/static/InterSemiBold.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: paragraph;
+  src: url(assets/fonts/static/InterRegular.ttf);
+}
+:root {
+  --primary: black;
+  --grey700: hsl(0, 0%, 20%);
+  --grey800: hsl(0, 0%, 12%);
+  --grey900: hsl(0, 0%, 8%);
+  --buttonfocus: hsl(75, 94%, 57%);
+}
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: paragraph;
+  font-weight: 400;
+}
+.profile_card_container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background: var(--primary);
+}
+.profile_card {
+  display: flex;
+  justify-content: center;
+  height: 30em;
+  width: 20em;
+  margin: auto;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+  background: var(--grey800);
+  border-radius: 1em;
+}
+.social_links :focus {
+  color: black;
+  background: var(--buttonfocus);
+}
+.social_links_button {
+  display: inline-block;
+  width: 20em;
+  margin: 0.5em 0em;
+  padding: 1em 0em;
+  text-decoration: none;
+  background: var(--grey700);
+  border-radius: 0.5em;
+}
+.profile_card > div {
+  font-size: small;
+  color: rgba(255, 255, 255, 0.8);
+}
+.profile_card > div > img {
+  height: 5.5em;
+  margin: 0em 10em;
+  border-radius: 100%;
+}
+div > sub {
+  color: hsl(75, 94%, 57%);
+}
+h1 {
+  font-family: heading;
+}
