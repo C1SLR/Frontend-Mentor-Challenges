@@ -9,11 +9,11 @@ This is my second Challenge From Frontend Mentor Here i created my  blog card of
 - [Screenshot]
 
 Here is my coding screen shot in my personal computer 
-![](./assets/images/ss1.png) 
-![](./assets/images/ss2.png)
-![](./assets/images/ss3.png)
-![](./assets/images/ss4.png)
-![](./assets/images/ss5.png)
+![](images/ss1.png) 
+![](images/ss2.png)
+![](images/ss3.png)
+![](images/ss4.png)
+![](images/ss5.png)
 
 ## Links
 
@@ -21,7 +21,9 @@ Here is my coding screen shot in my personal computer
 
 Live Site (https://frontendmentorchallenge-phi.vercel.app/2nd%20Challenge/index.html)
 
-Git Repository (https://github.com/C1SLR/Frontend-Mentor-Challenges)
+Git Repository Main Link (https://github.com/C1SLR/Frontend-Mentor-Challenges)
+
+Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/2nd%20Challenge)
 
 ## My process
 

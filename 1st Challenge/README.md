@@ -8,16 +8,19 @@ This is my first Challenge From Frontend Mentor Here i created my QR code page w
 
 - [Screenshot]
 
-Here is my coding screen shot in my personal computer ![](./images/ss1.png) 
-![](./images/ss2.png)
-![](./images/ss3.png)
+Here is my coding screen shot in my personal computer 
+![](images/ss1.png) 
+![](images/ss2.png)
+![](images/ss3.png)
 
 ## Links
 
 - [Links]
 Live Site (https://frontendmentorchallenge-phi.vercel.app/1st%20Challenge/index.html)
 
-Git Repository (https://github.com/C1SLR/Frontend-Mentor-Challenges)
+Git Repository Main Link (https://github.com/C1SLR/Frontend-Mentor-Challenges)
+
+Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/1st%20Challenge)
 
 ## My process
 
