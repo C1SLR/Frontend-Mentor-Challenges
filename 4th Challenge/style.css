@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap");
+:root {
+  --Stone100: hsl(30, 54%, 90%);
+  --Stone150: hsla(30, 55%, 87%, 0.363);
+  --Stone600: hsl(30, 10%, 34%);
+  --Stone900: hsl(24, 5%, 18%);
+  --Brown800: hsl(14, 45%, 36%);
+  --Rose800: hsl(332, 51%, 32%);
+  --Rose50: hsl(330, 100%, 98%);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  font-display: swap;
+  font-family: "Outfit";
+  font-size: 1rem;
+  font-weight: 400;
+  background: var(--Stone100);
+}
+.recipe_card {
+  width: 40em;
+  padding: 2.5rem;
+  border-radius: 1.5rem;
+  background: var(--Rose50);
+}
+.recipe_card > section > div > img {
+  width: 100%;
+  border-radius: 1em;
+}
+.omelette_recipe {
+  padding: 2em 0em;
+}
+.preparation_time {
+  padding: 1.5em;
+  line-height: 2;
+  background: var(--Stone150);
+}
+.preparation_time > h2 {
+  color: var(--Rose800);
+}
+.ingredients {
+  padding-bottom: 1.5rem;
+  line-height: 2;
+  border-bottom: 2px solid var(--Stone150);
+}
+.instructions {
+  padding: 2em 0em;
+}
+.instructions ul {
+  padding-left: 1.5em;
+}
+.instructions li {
+  list-style: decimal;
+}
+.instructions li::marker {
+  font-size: 1em;
+  font-weight: bolder;
+  color: var(--Brown800);
+}
+.nutrition > p {
+  padding-left: 0.5em;
+}
+.nutrition_card {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 38.5rem;
+  padding-top: 1em;
+  padding-left: 1.5em;
+}
+.nutrition_item {
+  width: 50%;
+  padding: 1rem 0rem;
+  border-bottom: 2px solid var(--Stone100);
+}
+.nutrition_item b {
+  color: var(--Brown800);
+}
+@media only screen and (max-width: 740px) {
+  .recipe_card {
+    overflow: hidden;
+    text-align: start;
+    width: 100%;
+    padding: 0em;
+    border-radius: 0px;
+  }
+  .recipe_card > section > div > img {
+    height: 15rem;
+    width: 100%;
+    border-radius: 0;
+  }
+  .omelette_recipe,
+  .ingredients,
+  .instructions,
+  .nutrition {
+    padding: 1.5em;
+  }
+  .nutrition_card {
+    display: flex;
+    justify-content: space-evenly;
+    width: 85%;
+    margin: auto;
+    padding: 0;
+  }
+  .nutrition_item {
+    width: 42%;
+    padding-left: 2rem;
+  }
+}
+li {
+    list-style: inside;
+    padding: 0.5em;
+  }
+  li::marker {
+    color: var(--Brown800);
+  }
+  h1 {
+    font-size: 2em;
+    padding-bottom: 1em;
+  }
+  h2 {
+    font-family: "Young Serif";
+    font-weight: 400, 600, 700;
+    padding: 0.5rem;
+    color: var(--Brown800);
+  }
