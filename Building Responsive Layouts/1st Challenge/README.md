@@ -28,11 +28,11 @@ This is an E-commerce page product of perfume with discounted price with fully r
 
 - [Links]
 
-Live Site (https://frontendmentorchallenge-phi.vercel.app/4th%20Challenge/index.html)
+Live Site (https://frontendmentorchallenge-phi.vercel.app/Building%20Responsive%20Layouts/1st%20Challenge/index.html)
 
 Git Repository Main Link (https://github.com/C1SLR/Frontend-Mentor-Challenges)
 
-Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/4th%20Challenge)
+Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/Building%20Responsive%20Layouts/1st%20Challenge)
 
 ## My process
 
