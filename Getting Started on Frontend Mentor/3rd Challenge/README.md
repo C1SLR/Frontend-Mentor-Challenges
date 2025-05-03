@@ -8,8 +8,8 @@ Another Challenge From Frontend Mentor where i'm creating social profile with th
 
 - [Screenshot]
 
-Here is my coding screen shot in my personal computer 
-![](assets/images/ss1.png) 
+Here is my coding screen shot in my personal computer
+![](assets/images/ss1.png)
 ![](assets/images/ss2.png)
 ![](assets/images/ss3.png)
 
@@ -17,17 +17,18 @@ Here is my coding screen shot in my personal computer
 
 - [Links]
 
-Live Site (https://frontendmentorchallenge-phi.vercel.app/3rd%20Challenge/index.html)
+Live Site (https://frontendmentorchallenge-phi.vercel.app/Getting%20Started%20on%20Frontend%20Mentor/3rd%20Challenge/index.html)
 
 Git Repository Main Link (https://github.com/C1SLR/Frontend-Mentor-Challenges)
 
-Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/3rd%20Challenge)
+Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/Getting%20Started%20on%20Frontend%20Mentor/3rd%20Challenge)
 
 ## My process
 
 - [My Process]
 
 ### Built with
+
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox

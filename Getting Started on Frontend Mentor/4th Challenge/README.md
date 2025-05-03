@@ -17,11 +17,11 @@ In this frontend mentors challenge we created a responsive cooking an omellete r
 
 - [Links]
 
-Live Site (https://frontendmentorchallenge-phi.vercel.app/4th%20Challenge/index.html)
+Live Site (https://frontendmentorchallenge-phi.vercel.app/Getting%20Started%20on%20Frontend%20Mentor/4th%20Challenge/index.html)
 
 Git Repository Main Link (https://github.com/C1SLR/Frontend-Mentor-Challenges)
 
-Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/4th%20Challenge)
+Git Repository Challenge Link (https://github.com/C1SLR/Frontend-Mentor-Challenges/tree/main/Getting%20Started%20on%20Frontend%20Mentor/4th%20Challenge)
 
 ## My process
 
